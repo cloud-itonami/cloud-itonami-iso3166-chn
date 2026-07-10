@@ -1,12 +1,3 @@
 ;; Real-world organization location / contact.
 ;; :head-role is institutional title only — no personal names.
-{:ooyake-id "gov.chn"
-  :official-url "https://www.gov.cn/"
-  :name-en "People's Republic of China"
-  :name-local "中华人民共和国"
-  :wikidata "Q148"
-  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
-  :contact-page "https://www.wikidata.org/wiki/Q956"
-  :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
-  :hq {:line-en "Beijing" :country "chn" :kind "capital" :provenance "https://www.wikidata.org/wiki/Q956" :last-verified "2026-06-04" :sourcing "authoritative"}
-}
+{:contact-page "https://www.wikidata.org/wiki/Q956", :ooyake-id "gov.chn", :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)", :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored", :official-url "https://www.gov.cn/", :hq {:line-en "Beijing", :country "chn", :kind "capital", :provenance "https://www.wikidata.org/wiki/Q956", :last-verified "2026-06-04", :sourcing "authoritative"}, :wikidata "Q148", :name-en "People's Republic of China", :name-local "中华人民共和国"}
