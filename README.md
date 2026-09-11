@@ -13,8 +13,8 @@ for an already-incorporated operator entering Chinese public contracts
 | Actor | `src/marketentry/*` |
 | Governor | `:market-entry-compliance-governor` |
 | Flagship HARD | `domestic-entity-missing` |
-| Tests | `clojure -M:dev:test` |
-| Demo | `clojure -M:dev:run` |
+| Tests | `kbb -M:dev:test` |
+| Demo | `kbb -M:dev:run` |
 
 ## What this is NOT
 
